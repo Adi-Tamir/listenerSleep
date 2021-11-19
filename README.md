@@ -1,6 +1,6 @@
-Brainstorm Hackathon Project
+**Brainstorm Hackathon Project**
 
-Era - One Sleepless Night for a Better Life
+**Era - One Sleepless Night for a Better Life**
 
 Sleep deprivation has been shown in clinical research to prevent consolidation of memory after potentially traumatic events and can prevent the development of PTSD.
 Era comes to help achieve controlled sleep deprivation in a more natural setting. 
