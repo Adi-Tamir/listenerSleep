@@ -11,5 +11,6 @@ pull user out of REM sleep. User can set preferred ringtones and set a contact w
 
 Project Structure:
 
-- source : source code
+- sleepDeprivation : source code used in POC demo
+- source : source code that uses observer pattern -> thinking ahead to future development stages
 - documentation : documentation, analysis, design for project components
