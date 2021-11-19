@@ -39,7 +39,7 @@ changes.
 """
 
 
-class ConcreteSubject(AbstractSubject):
+class ConcreteSubject(AbstractSubject.Subject):
     _state = 0
 
     """
