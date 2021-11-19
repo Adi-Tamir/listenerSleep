@@ -1,8 +1,8 @@
 from __future__ import annotations
 import sys
 
-from ConcreteObserver import ConcreteObserver
-from ConcreteSubject import ConcreteSubject
+from source.ConcreteObserver import ConcreteObserver
+from source.ConcreteSubject import ConcreteSubject
 
 sys.path.append('C:/Users/oren_/AppData/Local/Programs/Python/Python310/Lib/site-packages')
 if __name__ == "__main__":

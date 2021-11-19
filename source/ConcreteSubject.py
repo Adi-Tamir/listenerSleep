@@ -1,13 +1,13 @@
 import time
 from typing import List
 
-from PyQt5 import QtCore, QtGui, QtWidgets
+from PyQt5 import QtCore, QtGui
 from pyqtgraph.Qt import QtGui, QtCore
 import pyqtgraph as pg
 import threading
 import numpy as np
 from scipy import signal
-import AbstractSubject
+from source import AbstractSubject
 from pyOpenBCI import OpenBCICyton
 import sys
 
