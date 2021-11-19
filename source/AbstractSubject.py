@@ -2,6 +2,8 @@ from abc import ABC, abstractmethod
 
 from Observer import Observer
 
+# python openBCI gui logic from:
+# https://github.com/andreaortuno/Plotting_OpenBCI_Cyton_Data_live/blob/master/Plotting%20live%20data%20with%20Cyton%20with%20pyqtgraph.ipynb
 
 class Subject(ABC):
     """
